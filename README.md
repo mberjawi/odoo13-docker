@@ -1,4 +1,4 @@
-# Quick install
+# Quick install Installing Odoo 13 with one command (Supports multiple Odoo instances on one server)
 
 Installing Odoo 13 with one command.
 
